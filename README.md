@@ -1,44 +1,41 @@
-# Ozone Level Analysis in Botanical Gardens
+# Ozone Level Statistical Analysis in R
 
 ## Overview
 
-This project analyzes ozone levels across multiple botanical gardens to investigate environmental differences and their potential biological impact on plant health.
-
-## Background
-
-Ozone plays a dual role in Earth's atmosphere. While it protects against ultraviolet radiation in the upper atmosphere, surface-level ozone is a harmful pollutant that negatively affects plant health by damaging cellular structures and reducing photosynthesis efficiency.
+This project analyzes ozone levels across botanical gardens to determine whether location influences ozone concentration. Statistical testing and visualization were performed using R.
 
 ## Objective
 
-To determine whether there is a statistically significant difference in ozone levels between eastern and western botanical gardens.
+To evaluate whether ozone levels differ significantly based on garden location and to test hypotheses using t-tests.
 
 ## Methods
 
-* Collected ozone level data from 20 botanical gardens
-* Divided data into East vs West groups
-* Conducted a two-sample t-test in R
-* Visualized data distributions
+* Loaded and explored ozone dataset
+* Assessed data distribution using histograms
+* Conducted a one-sample t-test to compare ozone levels against a baseline value
+* Interpreted statistical significance
 
 ## Tools Used
 
 * R
-* Statistical analysis (t-test)
-* Data visualization
+* ggplot2
+* Statistical testing (t-test)
 
 ## Results
 
-* Found higher ozone levels in eastern gardens compared to western gardens
-* Results suggest a correlation between urbanization and increased ozone presence
+* Data visualization showed the distribution of ozone levels
+* Statistical testing provided insight into whether ozone levels exceeded expected thresholds
 
 ## Files
 
-* `ozone_analysis.R` — main analysis script
-* `data.csv` — dataset
-* `plots/` — visualizations
-* `report/` — full project write-up
+* `teare_jack_finalproject.Rmd` — full analysis with code and explanations
+* `data/` — dataset used in analysis
+* `plots/` — generated visualizations
+* `report/` — written project summary
 
 ## What I Learned
 
-* Applying statistical testing to environmental data
-* Interpreting biological implications of pollutants
-* Using R for data analysis and visualization
+* Applying statistical tests to environmental datasets
+* Data visualization using ggplot2
+* Structuring reproducible analyses in R Markdown
+
