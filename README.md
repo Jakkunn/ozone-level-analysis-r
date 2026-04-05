@@ -21,11 +21,14 @@ To evaluate whether ozone levels differ significantly based on garden location a
 * ggplot2
 * Statistical testing (t-test)
 
-## Results
+## Results Overview
 
 * Data visualization showed the distribution of ozone levels
 * Statistical testing provided insight into whether ozone levels exceeded expected thresholds
-![Ozone Distribution](plots/plot1.png)
+
+## Results
+
+![Ozone Distribution](plots/histogram.png)
 
 ## Files
 
