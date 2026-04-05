@@ -34,7 +34,7 @@ To evaluate whether ozone levels differ significantly based on garden location a
 
 ## Files
 
-* `teare_jack_finalproject.Rmd` — full analysis with code and explanations
+* `teare_jack_rproject.Rmd` — full analysis with code and explanations
 * `data/` — dataset used in analysis
 * `plots/` — generated visualizations
 * `report/` — written project summary
