@@ -30,6 +30,8 @@ To evaluate whether ozone levels differ significantly based on garden location a
 
 ![Ozone Distribution](plot1.png)
 
+![Ozone Levels](plot2.png)
+
 ## Files
 
 * `teare_jack_finalproject.Rmd` — full analysis with code and explanations
