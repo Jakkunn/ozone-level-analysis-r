@@ -28,7 +28,7 @@ To evaluate whether ozone levels differ significantly based on garden location a
 
 ## Results Histogram
 
-![Ozone Distribution](plots/plot1.png)
+![Ozone Distribution](plot1.png)
 
 ## Files
 
