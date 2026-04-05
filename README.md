@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes ozone levels across botanical gardens to determine whether location influences ozone concentration. Statistical testing and visualization were performed using R.
+This project analyzes ozone levels across botanical gardens using statistical methods in R to determine whether environmental location impacts ozone concentration. A two-sample t-test and data visualization techniques were used to evaluate patterns in the dataset.
 
 ## Objective
 
