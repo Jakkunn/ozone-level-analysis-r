@@ -26,9 +26,9 @@ To evaluate whether ozone levels differ significantly based on garden location a
 * Data visualization showed the distribution of ozone levels
 * Statistical testing provided insight into whether ozone levels exceeded expected thresholds
 
-## Results
+## Results Histogram
 
-![Ozone Distribution](plots/histogram.png)
+![Ozone Distribution](plots/plot1.png)
 
 ## Files
 
